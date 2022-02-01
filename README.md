@@ -1,4 +1,4 @@
-# [📈 Live Status](https://bomberosalas.github.io/status): <!--live status--> **🟩 All systems operational**
+# [📈 Sitios Status](https://bomberosalas.github.io/status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [bomberosalas](https://bomberosalas.github.io/status), powered by [Upptime](https://github.com/upptime/upptime).
 
