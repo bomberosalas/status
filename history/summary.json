@@ -4,36 +4,40 @@
     "url": "https://www.csalas.cl",
     "icon": "https://favicons.githubusercontent.com/www.csalas.cl",
     "slug": "personal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 819,
     "timeDay": 819,
     "timeWeek": 819,
     "timeMonth": 819,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 1
+    }
   },
   {
     "name": "Mapas",
     "url": "https://maps.csalas.cl",
     "icon": "https://favicons.githubusercontent.com/maps.csalas.cl",
     "slug": "mapas",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 752,
     "timeDay": 752,
     "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Segunda Cia Bomberos",
