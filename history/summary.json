@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.csalas.cl",
     "slug": "personal",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 807,
     "timeDay": 833,
     "timeWeek": 807,
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/maps.csalas.cl",
     "slug": "mapas",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 686,
     "timeDay": 623,
     "timeWeek": 686,
@@ -62,9 +62,9 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://favicons.githubusercontent.com/bomberoscoyhaique.cl",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 678,
     "timeMonth": 678,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   }
 ]
