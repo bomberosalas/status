@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.csalas.cl",
     "slug": "personal",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 785,
     "timeDay": 891,
     "timeWeek": 778,
@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/maps.csalas.cl",
     "slug": "mapas",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 649,
     "timeDay": 571,
     "timeWeek": 632,
@@ -46,27 +46,29 @@
     "url": "https://2da.cl",
     "icon": "https://favicons.githubusercontent.com/2da.cl",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 599,
+    "timeDay": 572,
     "timeWeek": 678,
     "timeMonth": 679,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 1
+    }
   },
   {
     "name": "Bomberos Coyhaique",
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://favicons.githubusercontent.com/bomberoscoyhaique.cl",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +77,8 @@
     "timeWeek": 627,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   }
 ]
