@@ -11,6 +11,8 @@ sites:
     url: https://2da.cl
   - name: Bomberos Coyhaique
     url: https://bomberoscoyhaique.cl
+  - name: Grifos
+    url: https://grifos.cl
 
 assignees: # Users to assign downtime issues (optional)
   - bomberosalas
