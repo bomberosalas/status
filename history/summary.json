@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.csalas.cl",
     "slug": "personal",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 848,
     "timeDay": 965,
     "timeWeek": 1035,
-    "timeMonth": 876,
+    "timeMonth": 873,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2022-02-08": 31,
@@ -34,7 +34,7 @@
     "time": 685,
     "timeDay": 686,
     "timeWeek": 790,
-    "timeMonth": 700,
+    "timeMonth": 697,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2022-02-08": 30,
@@ -46,11 +46,11 @@
     "url": "https://2da.cl",
     "icon": "https://favicons.githubusercontent.com/2da.cl",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.85%",
     "time": 688,
     "timeDay": 744,
@@ -58,6 +58,7 @@
     "timeMonth": 700,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2022-03-12": 1,
       "2022-03-06": 15,
       "2022-02-27": 17,
       "2022-02-22": 36,
@@ -69,11 +70,11 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://favicons.githubusercontent.com/bomberoscoyhaique.cl",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 659,
     "timeDay": 912,
@@ -81,6 +82,7 @@
     "timeMonth": 669,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2022-03-12": 1,
       "2022-02-27": 16,
       "2022-02-13": 16
     }
@@ -90,9 +92,9 @@
     "url": "https://grifos.cl",
     "icon": "https://favicons.githubusercontent.com/grifos.cl",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,6 +103,8 @@
     "timeWeek": 664,
     "timeMonth": 664,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   }
 ]
