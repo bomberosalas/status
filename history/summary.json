@@ -69,11 +69,11 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://favicons.githubusercontent.com/bomberoscoyhaique.cl",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 664,
     "timeDay": 849,
@@ -81,6 +81,7 @@
     "timeMonth": 673,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2022-03-13": 1,
       "2022-02-27": 16,
       "2022-02-13": 16
     }
@@ -90,9 +91,9 @@
     "url": "https://grifos.cl",
     "icon": "https://favicons.githubusercontent.com/grifos.cl",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,6 +102,8 @@
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   }
 ]
