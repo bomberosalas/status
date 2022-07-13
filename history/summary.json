@@ -4,10 +4,10 @@
     "url": "https://www.csalas.cl",
     "icon": "https://favicons.githubusercontent.com/www.csalas.cl",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 910,
@@ -16,6 +16,7 @@
     "timeMonth": 922,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2022-07-13": 1,
       "2022-02-08": 31,
       "2022-02-02": 16
     }
@@ -25,9 +26,9 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://favicons.githubusercontent.com/maps.csalas.cl",
     "slug": "mapas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +38,7 @@
     "timeMonth": 695,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-02-08": 30,
       "2022-02-02": 16
     }
@@ -54,7 +56,7 @@
     "uptimeYear": "99.81%",
     "time": 837,
     "timeDay": 844,
-    "timeWeek": 1251,
+    "timeWeek": 959,
     "timeMonth": 1308,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -87,7 +89,7 @@
     "uptimeYear": "99.72%",
     "time": 854,
     "timeDay": 722,
-    "timeWeek": 996,
+    "timeWeek": 1047,
     "timeMonth": 1224,
     "timeYear": 854,
     "dailyMinutesDown": {
@@ -111,14 +113,14 @@
     "icon": "https://favicons.githubusercontent.com/grifos.cl",
     "slug": "grifos",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 1129,
     "timeDay": 601,
-    "timeWeek": 1618,
+    "timeWeek": 1868,
     "timeMonth": 1780,
     "timeYear": 1129,
     "dailyMinutesDown": {
