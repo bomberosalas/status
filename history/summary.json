@@ -13,7 +13,7 @@
     "time": 906,
     "timeDay": 856,
     "timeWeek": 1062,
-    "timeMonth": 899,
+    "timeMonth": 905,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2022-12-06": 15,
@@ -40,7 +40,7 @@
     "time": 732,
     "timeDay": 793,
     "timeWeek": 662,
-    "timeMonth": 728,
+    "timeMonth": 730,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2022-12-02": 20,
@@ -56,9 +56,9 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -68,6 +68,7 @@
     "timeMonth": 1341,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2022-12-10": 0,
       "2022-08-23": 15,
       "2022-06-26": 18,
       "2022-05-30": 57,
