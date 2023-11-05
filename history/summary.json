@@ -78,8 +78,8 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
-    "uptime": "99.89%",
+    "status": "down",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
@@ -90,6 +90,7 @@
     "timeMonth": 807,
     "timeYear": 751,
     "dailyMinutesDown": {
+      "2023-11-05": -60,
       "2023-10-08": 25,
       "2023-10-07": 54,
       "2023-10-06": 6,
