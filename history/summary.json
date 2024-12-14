@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 886,
-    "timeDay": 709,
-    "timeWeek": 861,
+    "timeDay": 932,
+    "timeWeek": 887,
     "timeMonth": 889,
     "timeYear": 884,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 709,
-    "timeWeek": 698,
-    "timeMonth": 731,
-    "timeYear": 739,
+    "time": 729,
+    "timeDay": 2725,
+    "timeWeek": 984,
+    "timeMonth": 798,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -42,14 +42,14 @@
     "slug": "segunda-cia-bomberos",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.74%",
     "time": 873,
-    "timeDay": 627,
-    "timeWeek": 664,
-    "timeMonth": 812,
+    "timeDay": 578,
+    "timeWeek": 658,
+    "timeMonth": 813,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2024-12-12": 15,
@@ -84,8 +84,7 @@
       "2023-12-21": 19,
       "2023-12-18": 34,
       "2023-12-17": 4,
-      "2023-12-16": 15,
-      "2023-12-15": 16
+      "2023-12-16": 15
     }
   },
   {
@@ -99,10 +98,10 @@
     "uptimeWeek": "96.26%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.77%",
-    "time": 761,
-    "timeDay": 544,
+    "time": 760,
+    "timeDay": 576,
     "timeWeek": 640,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2024-12-11": 361,
@@ -127,8 +126,7 @@
       "2023-12-30": 15,
       "2023-12-21": 19,
       "2023-12-18": 34,
-      "2023-12-17": 3,
-      "2023-12-15": 15
+      "2023-12-17": 3
     }
   },
   {
@@ -143,10 +141,10 @@
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.81%",
     "time": 829,
-    "timeDay": 532,
-    "timeWeek": 1247,
-    "timeMonth": 816,
-    "timeYear": 858,
+    "timeDay": 608,
+    "timeWeek": 1237,
+    "timeMonth": 817,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2024-12-11": 360,
       "2024-11-28": 29,
