@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
-    "timeDay": 1003,
-    "timeWeek": 1336,
-    "timeMonth": 999,
-    "timeYear": 890,
+    "timeDay": 810,
+    "timeWeek": 1321,
+    "timeMonth": 995,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 746,
-    "timeDay": 657,
-    "timeWeek": 899,
-    "timeMonth": 989,
+    "timeDay": 759,
+    "timeWeek": 893,
+    "timeMonth": 926,
     "timeYear": 768,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 859,
-    "timeDay": 560,
-    "timeWeek": 668,
+    "timeDay": 598,
+    "timeWeek": 659,
     "timeMonth": 636,
-    "timeYear": 883,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2024-12-12": 15,
       "2024-12-08": 130,
@@ -74,8 +74,7 @@
       "2024-01-24": 46,
       "2024-01-22": 18,
       "2024-01-18": 18,
-      "2024-01-16": 17,
-      "2024-01-15": 16
+      "2024-01-16": 17
     }
   },
   {
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 765,
-    "timeDay": 539,
-    "timeWeek": 690,
-    "timeMonth": 631,
+    "timeDay": 630,
+    "timeWeek": 654,
+    "timeMonth": 633,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2024-12-11": 361,
@@ -110,8 +109,7 @@
       "2024-01-24": 46,
       "2024-01-22": 17,
       "2024-01-18": 17,
-      "2024-01-16": 17,
-      "2024-01-15": 16
+      "2024-01-16": 17
     }
   },
   {
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 852,
-    "timeDay": 535,
-    "timeWeek": 687,
-    "timeMonth": 623,
-    "timeYear": 902,
+    "time": 851,
+    "timeDay": 473,
+    "timeWeek": 654,
+    "timeMonth": 618,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2024-12-11": 360,
       "2024-11-28": 29,
@@ -143,8 +141,7 @@
       "2024-01-24": 45,
       "2024-01-22": 17,
       "2024-01-18": 17,
-      "2024-01-16": 16,
-      "2024-01-15": 15
+      "2024-01-16": 16
     }
   }
 ]
