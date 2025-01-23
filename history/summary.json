@@ -6,18 +6,16 @@
     "slug": "personal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 889,
-    "timeDay": 972,
-    "timeWeek": 918,
-    "timeMonth": 1013,
+    "timeDay": 918,
+    "timeWeek": 904,
+    "timeMonth": 1010,
     "timeYear": 890,
-    "dailyMinutesDown": {
-      "2025-01-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mapas",
@@ -26,18 +24,16 @@
     "slug": "mapas",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 848,
-    "timeWeek": 724,
-    "timeMonth": 804,
+    "time": 747,
+    "timeDay": 684,
+    "timeWeek": 723,
+    "timeMonth": 803,
     "timeYear": 770,
-    "dailyMinutesDown": {
-      "2025-01-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Segunda Cia Bomberos",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 858,
-    "timeDay": 840,
-    "timeWeek": 623,
-    "timeMonth": 638,
-    "timeYear": 894,
+    "time": 880,
+    "timeDay": 586,
+    "timeWeek": 630,
+    "timeMonth": 639,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2024-12-12": 15,
       "2024-12-08": 130,
@@ -74,8 +70,7 @@
       "2024-02-06": 15,
       "2024-02-04": 16,
       "2024-02-03": 20,
-      "2024-01-30": 22,
-      "2024-01-24": 46
+      "2024-01-30": 22
     }
   },
   {
@@ -90,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 777,
-    "timeDay": 909,
-    "timeWeek": 619,
-    "timeMonth": 636,
-    "timeYear": 780,
+    "timeDay": 573,
+    "timeWeek": 627,
+    "timeMonth": 639,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2024-12-11": 361,
       "2024-12-08": 16,
@@ -106,8 +101,7 @@
       "2024-02-12": 60,
       "2024-02-04": 15,
       "2024-02-03": 20,
-      "2024-01-30": 21,
-      "2024-01-24": 46
+      "2024-01-30": 21
     }
   },
   {
@@ -122,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 873,
-    "timeDay": 697,
-    "timeWeek": 619,
-    "timeMonth": 629,
+    "timeDay": 662,
+    "timeWeek": 648,
+    "timeMonth": 637,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2024-12-11": 360,
@@ -135,8 +129,7 @@
       "2024-02-14": 144,
       "2024-02-12": 60,
       "2024-02-03": 19,
-      "2024-01-30": 21,
-      "2024-01-24": 45
+      "2024-01-30": 21
     }
   }
 ]
