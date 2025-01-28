@@ -4,10 +4,10 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 887,
@@ -16,6 +16,7 @@
     "timeMonth": 984,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2025-01-28": 1,
       "2025-01-26": 17
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 746,
@@ -36,6 +37,7 @@
     "timeMonth": 784,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2025-01-28": 0,
       "2025-01-26": 17
     }
   },
@@ -54,7 +56,7 @@
     "timeDay": 588,
     "timeWeek": 660,
     "timeMonth": 646,
-    "timeYear": 894,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2024-12-12": 15,
       "2024-12-08": 130,
@@ -92,7 +94,7 @@
     "timeDay": 604,
     "timeWeek": 650,
     "timeMonth": 647,
-    "timeYear": 779,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2024-12-11": 361,
       "2024-12-08": 16,
@@ -123,7 +125,7 @@
     "timeDay": 553,
     "timeWeek": 620,
     "timeMonth": 631,
-    "timeYear": 917,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2024-12-11": 360,
       "2024-11-28": 29,
