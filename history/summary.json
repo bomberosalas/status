@@ -4,16 +4,16 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "89.50%",
+    "uptimeDay": "89.49%",
     "uptimeWeek": "95.22%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "99.24%",
     "time": 1025,
-    "timeDay": 1107,
-    "timeWeek": 1213,
-    "timeMonth": 1334,
+    "timeDay": 1105,
+    "timeWeek": 1210,
+    "timeMonth": 1328,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2026-02-18": 152,
@@ -74,8 +74,7 @@
       "2025-11-30": 105,
       "2025-11-29": 18,
       "2025-11-28": 57,
-      "2025-11-27": 17,
-      "2025-11-23": 18
+      "2025-11-27": 17
     }
   },
   {
@@ -83,16 +82,16 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "94.90%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "94.89%",
     "uptimeMonth": "95.93%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 795,
-    "timeDay": 1089,
-    "timeWeek": 956,
-    "timeMonth": 1024,
+    "timeDay": 1041,
+    "timeWeek": 950,
+    "timeMonth": 986,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2026-02-18": 151,
@@ -152,8 +151,7 @@
       "2025-12-01": 33,
       "2025-11-30": 105,
       "2025-11-29": 18,
-      "2025-11-28": 57,
-      "2025-11-27": 17
+      "2025-11-28": 57
     }
   },
   {
@@ -170,7 +168,7 @@
     "time": 761,
     "timeDay": 614,
     "timeWeek": 628,
-    "timeMonth": 716,
+    "timeMonth": 720,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-18": 36,
@@ -223,8 +221,8 @@
     "time": 726,
     "timeDay": 661,
     "timeWeek": 677,
-    "timeMonth": 703,
-    "timeYear": 719,
+    "timeMonth": 708,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2026-02-18": 77,
       "2026-02-15": 55,
@@ -284,7 +282,7 @@
     "time": 745,
     "timeDay": 673,
     "timeWeek": 628,
-    "timeMonth": 709,
+    "timeMonth": 713,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2026-02-18": 77,
