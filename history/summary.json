@@ -4,16 +4,16 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "94.14%",
-    "uptimeMonth": "95.51%",
+    "uptimeMonth": "95.52%",
     "uptimeYear": "99.22%",
     "time": 1030,
-    "timeDay": 1002,
-    "timeWeek": 1183,
-    "timeMonth": 1288,
+    "timeDay": 938,
+    "timeWeek": 1107,
+    "timeMonth": 1290,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-02-22": 23,
@@ -75,7 +75,7 @@
       "2025-12-03": 21,
       "2025-12-02": 38,
       "2025-12-01": 33,
-      "2025-11-30": 45
+      "2025-11-30": 18
     }
   },
   {
@@ -83,16 +83,16 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "93.81%",
     "uptimeMonth": "95.45%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 797,
-    "timeDay": 793,
-    "timeWeek": 962,
-    "timeMonth": 954,
+    "timeDay": 743,
+    "timeWeek": 948,
+    "timeMonth": 953,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2026-02-22": 23,
@@ -153,8 +153,7 @@
       "2025-12-06": 68,
       "2025-12-03": 21,
       "2025-12-02": 38,
-      "2025-12-01": 33,
-      "2025-11-30": 18
+      "2025-12-01": 33
     }
   },
   {
@@ -169,9 +168,9 @@
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.66%",
     "time": 762,
-    "timeDay": 604,
-    "timeWeek": 624,
-    "timeMonth": 713,
+    "timeDay": 585,
+    "timeWeek": 621,
+    "timeMonth": 708,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-22": 52,
@@ -223,9 +222,9 @@
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.60%",
     "time": 727,
-    "timeDay": 606,
-    "timeWeek": 686,
-    "timeMonth": 710,
+    "timeDay": 617,
+    "timeWeek": 663,
+    "timeMonth": 706,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2026-02-22": 51,
@@ -286,9 +285,9 @@
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.62%",
     "time": 745,
-    "timeDay": 668,
-    "timeWeek": 652,
-    "timeMonth": 711,
+    "timeDay": 633,
+    "timeWeek": 649,
+    "timeMonth": 642,
     "timeYear": 762,
     "dailyMinutesDown": {
       "2026-02-22": 50,
