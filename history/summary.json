@@ -4,18 +4,19 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "96.44%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "96.62%",
     "uptimeYear": "99.17%",
     "time": 1037,
-    "timeDay": 1111,
-    "timeWeek": 1057,
+    "timeDay": 1148,
+    "timeWeek": 1062,
     "timeMonth": 1104,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2026-03-08": 0,
       "2026-03-07": 20,
       "2026-03-06": 37,
       "2026-03-04": 123,
@@ -77,8 +78,7 @@
       "2025-12-14": 573,
       "2025-12-13": 18,
       "2025-12-11": 48,
-      "2025-12-10": 24,
-      "2025-12-09": 26
+      "2025-12-10": 24
     }
   },
   {
@@ -86,18 +86,19 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "99.18%",
     "time": 799,
-    "timeDay": 725,
-    "timeWeek": 767,
-    "timeMonth": 836,
+    "timeDay": 696,
+    "timeWeek": 777,
+    "timeMonth": 835,
     "timeYear": 801,
     "dailyMinutesDown": {
+      "2026-03-08": 0,
       "2026-03-07": 20,
       "2026-03-06": 37,
       "2026-03-04": 123,
@@ -158,8 +159,7 @@
       "2025-12-17": 64,
       "2025-12-14": 544,
       "2025-12-13": 18,
-      "2025-12-11": 48,
-      "2025-12-10": 24
+      "2025-12-11": 48
     }
   },
   {
@@ -233,7 +233,7 @@
     "uptimeYear": "99.61%",
     "time": 712,
     "timeDay": 606,
-    "timeWeek": 637,
+    "timeWeek": 628,
     "timeMonth": 683,
     "timeYear": 722,
     "dailyMinutesDown": {
@@ -301,7 +301,7 @@
     "uptimeYear": "99.63%",
     "time": 749,
     "timeDay": 564,
-    "timeWeek": 654,
+    "timeWeek": 653,
     "timeMonth": 643,
     "timeYear": 757,
     "dailyMinutesDown": {
