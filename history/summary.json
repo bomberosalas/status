@@ -4,18 +4,19 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.29%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.90%",
     "uptimeMonth": "96.40%",
     "uptimeYear": "99.26%",
     "time": 1039,
-    "timeDay": 1008,
-    "timeWeek": 997,
-    "timeMonth": 1091,
+    "timeDay": 919,
+    "timeWeek": 996,
+    "timeMonth": 1090,
     "timeYear": 1049,
     "dailyMinutesDown": {
+      "2026-03-13": 0,
       "2026-03-12": 39,
       "2026-03-11": 48,
       "2026-03-10": 62,
@@ -77,8 +78,7 @@
       "2025-12-27": 51,
       "2025-12-24": 24,
       "2025-12-20": 28,
-      "2025-12-18": 33,
-      "2025-12-17": 30
+      "2025-12-18": 33
     }
   },
   {
@@ -86,18 +86,19 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.29%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.90%",
     "uptimeMonth": "96.32%",
     "uptimeYear": "99.26%",
     "time": 799,
-    "timeDay": 1053,
-    "timeWeek": 817,
-    "timeMonth": 833,
-    "timeYear": 803,
+    "timeDay": 1168,
+    "timeWeek": 812,
+    "timeMonth": 832,
+    "timeYear": 802,
     "dailyMinutesDown": {
+      "2026-03-13": 0,
       "2026-03-12": 39,
       "2026-03-11": 48,
       "2026-03-10": 62,
@@ -159,7 +160,7 @@
       "2025-12-27": 51,
       "2025-12-24": 24,
       "2025-12-20": 28,
-      "2025-12-18": 33
+      "2025-12-18": 16
     }
   },
   {
@@ -176,7 +177,7 @@
     "time": 762,
     "timeDay": 621,
     "timeWeek": 664,
-    "timeMonth": 637,
+    "timeMonth": 635,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2026-03-11": 27,
@@ -305,7 +306,7 @@
     "time": 749,
     "timeDay": 994,
     "timeWeek": 672,
-    "timeMonth": 652,
+    "timeMonth": 650,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-03-11": 70,
