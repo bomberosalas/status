@@ -169,9 +169,9 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.40%",
@@ -235,7 +235,8 @@
       "2026-04-26": 90,
       "2026-04-27": 204,
       "2026-05-07": 68,
-      "2026-05-10": 47
+      "2026-05-10": 47,
+      "2026-06-02": 0
     }
   },
   {
