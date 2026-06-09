@@ -4,20 +4,18 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "91.37%",
-    "uptimeWeek": "88.88%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "88.83%",
+    "uptimeMonth": "95.48%",
+    "uptimeYear": "98.80%",
     "time": 1053,
     "timeDay": 1546,
     "timeWeek": 1015,
-    "timeMonth": 943,
+    "timeMonth": 944,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2026-02-02": 73,
-      "2026-02-01": 4,
       "2026-02-04": 152,
       "2026-02-05": 49,
       "2026-02-06": 146,
@@ -80,7 +78,8 @@
       "2026-06-02": 514,
       "2026-06-03": 377,
       "2026-06-05": 106,
-      "2026-06-08": 124
+      "2026-06-08": 125,
+      "2026-06-09": 4
     }
   },
   {
@@ -88,19 +87,19 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "91.70%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "91.69%",
     "uptimeWeek": "88.93%",
     "uptimeMonth": "95.53%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 804,
     "timeDay": 885,
     "timeWeek": 714,
-    "timeMonth": 730,
+    "timeMonth": 729,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2026-02-04": 151,
+      "2026-02-04": 99,
       "2026-02-05": 49,
       "2026-02-06": 146,
       "2026-02-07": 21,
@@ -162,7 +161,8 @@
       "2026-06-02": 512,
       "2026-06-03": 377,
       "2026-06-05": 106,
-      "2026-06-08": 120
+      "2026-06-08": 120,
+      "2026-06-09": 0
     }
   },
   {
@@ -254,7 +254,7 @@
     "time": 733,
     "timeDay": 761,
     "timeWeek": 614,
-    "timeMonth": 750,
+    "timeMonth": 753,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2025-08-05": 67,
@@ -338,7 +338,7 @@
     "time": 740,
     "timeDay": 769,
     "timeWeek": 620,
-    "timeMonth": 633,
+    "timeMonth": 632,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2025-08-05": 66,
