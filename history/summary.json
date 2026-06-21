@@ -4,17 +4,17 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "53.08%",
-    "uptimeWeek": "46.71%",
-    "uptimeMonth": "75.55%",
-    "uptimeYear": "97.30%",
-    "time": 1057,
-    "timeDay": 841,
-    "timeWeek": 904,
-    "timeMonth": 934,
-    "timeYear": 1066,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "48.75%",
+    "uptimeWeek": "45.27%",
+    "uptimeMonth": "75.22%",
+    "uptimeYear": "97.28%",
+    "time": 1056,
+    "timeDay": 796,
+    "timeWeek": 897,
+    "timeMonth": 931,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2026-02-23": 84,
       "2026-02-22": 3,
@@ -75,7 +75,7 @@
       "2026-06-18": 965,
       "2026-06-19": 901,
       "2026-06-20": 842,
-      "2026-06-21": 439
+      "2026-06-21": 584
     }
   },
   {
@@ -83,16 +83,16 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "54.42%",
-    "uptimeWeek": "47.67%",
-    "uptimeMonth": "75.93%",
-    "uptimeYear": "97.34%",
+    "uptimeDay": "49.76%",
+    "uptimeWeek": "46.23%",
+    "uptimeMonth": "75.60%",
+    "uptimeYear": "97.31%",
     "time": 805,
-    "timeDay": 705,
-    "timeWeek": 744,
-    "timeMonth": 724,
+    "timeDay": 662,
+    "timeWeek": 738,
+    "timeMonth": 722,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2026-02-23": 84,
@@ -154,7 +154,7 @@
       "2026-06-18": 955,
       "2026-06-19": 888,
       "2026-06-20": 822,
-      "2026-06-21": 430
+      "2026-06-21": 575
     }
   },
   {
@@ -162,16 +162,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 754,
-    "timeDay": 589,
-    "timeWeek": 594,
-    "timeMonth": 613,
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.33%",
+    "time": 755,
+    "timeDay": 615,
+    "timeWeek": 600,
+    "timeMonth": 614,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-07-01": 27,
@@ -230,7 +230,7 @@
       "2026-05-07": 68,
       "2026-05-10": 47,
       "2026-06-02": 279,
-      "2026-06-21": 10
+      "2026-06-21": 92
     }
   },
   {
@@ -238,17 +238,17 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.28%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.26%",
     "time": 728,
-    "timeDay": 511,
-    "timeWeek": 599,
+    "timeDay": 562,
+    "timeWeek": 601,
     "timeMonth": 616,
-    "timeYear": 697,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2025-08-05": 67,
       "2025-09-12": 19,
@@ -315,7 +315,7 @@
       "2026-04-27": 203,
       "2026-05-07": 63,
       "2026-05-10": 42,
-      "2026-06-21": 5
+      "2026-06-21": 87
     }
   },
   {
@@ -323,16 +323,16 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.29%",
     "time": 741,
-    "timeDay": 516,
-    "timeWeek": 609,
-    "timeMonth": 618,
+    "timeDay": 587,
+    "timeWeek": 615,
+    "timeMonth": 619,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2025-08-05": 66,
@@ -396,7 +396,7 @@
       "2026-04-27": 203,
       "2026-05-07": 58,
       "2026-05-10": 38,
-      "2026-06-21": 0
+      "2026-06-21": 82
     }
   }
 ]
