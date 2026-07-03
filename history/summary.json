@@ -4,16 +4,16 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "73.30%",
-    "uptimeWeek": "71.46%",
+    "uptimeDay": "73.31%",
+    "uptimeWeek": "70.81%",
     "uptimeMonth": "63.87%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.43%",
     "time": 1041,
-    "timeDay": 761,
+    "timeDay": 760,
     "timeWeek": 761,
-    "timeMonth": 862,
+    "timeMonth": 861,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-04-13": 51,
@@ -62,7 +62,7 @@
       "2026-06-30": 241,
       "2026-07-01": 814,
       "2026-07-02": 275,
-      "2026-07-03": 242
+      "2026-07-03": 308
     }
   },
   {
@@ -70,16 +70,16 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "73.34%",
-    "uptimeWeek": "71.51%",
+    "uptimeDay": "73.35%",
+    "uptimeWeek": "70.85%",
     "uptimeMonth": "64.40%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.47%",
     "time": 798,
-    "timeDay": 692,
+    "timeDay": 691,
     "timeWeek": 680,
-    "timeMonth": 715,
+    "timeMonth": 714,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2026-04-13": 51,
@@ -128,7 +128,7 @@
       "2026-06-30": 241,
       "2026-07-01": 814,
       "2026-07-02": 275,
-      "2026-07-03": 241
+      "2026-07-03": 307
     }
   },
   {
@@ -138,7 +138,7 @@
     "slug": "segunda-cia-bomberos",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "94.49%",
+    "uptimeDay": "94.72%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.32%",
