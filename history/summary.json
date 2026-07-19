@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "78.46%",
-    "uptimeWeek": "88.98%",
-    "uptimeMonth": "73.59%",
-    "uptimeYear": "96.24%",
+    "uptime": "99.15%",
+    "uptimeDay": "79.16%",
+    "uptimeWeek": "89.91%",
+    "uptimeMonth": "73.90%",
+    "uptimeYear": "96.19%",
     "time": 1033,
     "timeDay": 707,
-    "timeWeek": 759,
-    "timeMonth": 821,
+    "timeWeek": 756,
+    "timeMonth": 820,
     "timeYear": 1035,
     "dailyMinutesDown": {
+      "2026-05-25": 266,
       "2026-05-31": 62,
       "2026-06-02": 514,
       "2026-06-03": 377,
@@ -58,7 +59,7 @@
       "2026-07-15": 198,
       "2026-07-16": 122,
       "2026-07-17": 110,
-      "2026-07-18": 311
+      "2026-07-18": 301
     }
   },
   {
@@ -67,17 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "78.53%",
-    "uptimeWeek": "89.01%",
-    "uptimeMonth": "73.89%",
-    "uptimeYear": "96.29%",
+    "uptime": "99.16%",
+    "uptimeDay": "79.22%",
+    "uptimeWeek": "89.94%",
+    "uptimeMonth": "74.20%",
+    "uptimeYear": "96.24%",
     "time": 790,
     "timeDay": 626,
     "timeWeek": 654,
-    "timeMonth": 698,
+    "timeMonth": 697,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2026-05-25": 261,
       "2026-05-31": 62,
       "2026-06-02": 512,
       "2026-06-03": 377,
@@ -120,7 +122,7 @@
       "2026-07-15": 197,
       "2026-07-16": 122,
       "2026-07-17": 110,
-      "2026-07-18": 310
+      "2026-07-18": 300
     }
   },
   {
@@ -136,8 +138,8 @@
     "uptimeYear": "99.28%",
     "time": 721,
     "timeDay": 509,
-    "timeWeek": 618,
-    "timeMonth": 610,
+    "timeWeek": 585,
+    "timeMonth": 609,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-08-04": 62,
@@ -214,8 +216,8 @@
     "uptimeYear": "99.22%",
     "time": 726,
     "timeDay": 461,
-    "timeWeek": 572,
-    "timeMonth": 601,
+    "timeWeek": 551,
+    "timeMonth": 595,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2025-08-05": 67,
@@ -302,8 +304,8 @@
     "uptimeYear": "99.25%",
     "time": 735,
     "timeDay": 508,
-    "timeWeek": 649,
-    "timeMonth": 623,
+    "timeWeek": 625,
+    "timeMonth": 618,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2025-08-05": 66,
