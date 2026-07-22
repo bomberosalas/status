@@ -4,14 +4,14 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "89.20%",
-    "uptimeMonth": "79.31%",
-    "uptimeYear": "96.36%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "82.36%",
+    "uptimeWeek": "88.55%",
+    "uptimeMonth": "79.16%",
+    "uptimeYear": "96.35%",
     "time": 1030,
-    "timeDay": 683,
+    "timeDay": 691,
     "timeWeek": 731,
     "timeMonth": 803,
     "timeYear": 1031,
@@ -57,7 +57,7 @@
       "2026-07-19": 116,
       "2026-07-20": 253,
       "2026-07-21": 49,
-      "2026-07-22": 140
+      "2026-07-22": 205
     }
   },
   {
@@ -65,15 +65,15 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "86.93%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "79.48%",
-    "uptimeYear": "96.41%",
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "82.41%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "79.34%",
+    "uptimeYear": "96.39%",
     "time": 789,
-    "timeDay": 535,
-    "timeWeek": 644,
+    "timeDay": 554,
+    "timeWeek": 645,
     "timeMonth": 685,
     "timeYear": 794,
     "dailyMinutesDown": {
@@ -118,7 +118,7 @@
       "2026-07-19": 116,
       "2026-07-20": 252,
       "2026-07-21": 49,
-      "2026-07-22": 140
+      "2026-07-22": 205
     }
   },
   {
@@ -126,17 +126,17 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.28%",
-    "time": 722,
-    "timeDay": 708,
-    "timeWeek": 627,
-    "timeMonth": 625,
-    "timeYear": 735,
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.27%",
+    "time": 721,
+    "timeDay": 610,
+    "timeWeek": 613,
+    "timeMonth": 622,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2025-08-04": 62,
       "2025-08-06": 19,
@@ -197,7 +197,7 @@
       "2026-07-02": 79,
       "2026-07-03": 58,
       "2026-07-04": 111,
-      "2026-07-22": 10
+      "2026-07-22": 75
     }
   },
   {
@@ -205,16 +205,16 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.22%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.21%",
     "time": 727,
-    "timeDay": 1088,
-    "timeWeek": 626,
-    "timeMonth": 618,
+    "timeDay": 810,
+    "timeWeek": 614,
+    "timeMonth": 615,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-08-05": 67,
@@ -286,7 +286,7 @@
       "2026-07-02": 75,
       "2026-07-03": 53,
       "2026-07-04": 101,
-      "2026-07-22": 5
+      "2026-07-22": 70
     }
   },
   {
@@ -294,17 +294,17 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.23%",
     "time": 737,
-    "timeDay": 1683,
-    "timeWeek": 787,
-    "timeMonth": 663,
-    "timeYear": 708,
+    "timeDay": 1111,
+    "timeWeek": 756,
+    "timeMonth": 659,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-08-05": 66,
       "2025-09-12": 19,
@@ -371,7 +371,7 @@
       "2026-07-02": 70,
       "2026-07-03": 48,
       "2026-07-04": 91,
-      "2026-07-22": 1
+      "2026-07-22": 66
     }
   }
 ]
