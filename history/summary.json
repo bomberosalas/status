@@ -4,16 +4,16 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "72.17%",
-    "uptimeWeek": "86.61%",
+    "uptimeDay": "69.30%",
+    "uptimeWeek": "86.20%",
     "uptimeMonth": "79.07%",
     "uptimeYear": "96.51%",
     "time": 1028,
-    "timeDay": 730,
-    "timeWeek": 735,
-    "timeMonth": 801,
+    "timeDay": 757,
+    "timeWeek": 742,
+    "timeMonth": 803,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2026-06-10": 435,
@@ -56,7 +56,7 @@
       "2026-07-19": 116,
       "2026-07-20": 253,
       "2026-07-21": 49,
-      "2026-07-22": 401
+      "2026-07-22": 442
     }
   },
   {
@@ -64,16 +64,16 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "72.23%",
-    "uptimeWeek": "86.64%",
+    "uptimeDay": "69.37%",
+    "uptimeWeek": "86.23%",
     "uptimeMonth": "79.24%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.55%",
     "time": 789,
-    "timeDay": 607,
+    "timeDay": 608,
     "timeWeek": 644,
-    "timeMonth": 684,
+    "timeMonth": 683,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2026-06-10": 425,
@@ -116,7 +116,7 @@
       "2026-07-19": 116,
       "2026-07-20": 252,
       "2026-07-21": 49,
-      "2026-07-22": 401
+      "2026-07-22": 442
     }
   },
   {
@@ -124,16 +124,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.27%",
-    "time": 722,
-    "timeDay": 610,
-    "timeWeek": 613,
-    "timeMonth": 622,
+    "uptimeDay": "91.22%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.26%",
+    "time": 721,
+    "timeDay": 590,
+    "timeWeek": 606,
+    "timeMonth": 620,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-08-04": 62,
@@ -195,7 +195,7 @@
       "2026-07-02": 79,
       "2026-07-03": 58,
       "2026-07-04": 111,
-      "2026-07-22": 85
+      "2026-07-22": 126
     }
   },
   {
@@ -203,16 +203,16 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.31%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.20%",
     "time": 727,
-    "timeDay": 810,
-    "timeWeek": 614,
-    "timeMonth": 615,
+    "timeDay": 750,
+    "timeWeek": 616,
+    "timeMonth": 616,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-08-05": 67,
@@ -284,7 +284,7 @@
       "2026-07-02": 75,
       "2026-07-03": 53,
       "2026-07-04": 101,
-      "2026-07-22": 75
+      "2026-07-22": 116
     }
   },
   {
@@ -292,15 +292,15 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "92.57%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.23%",
     "time": 738,
-    "timeDay": 1111,
-    "timeWeek": 756,
+    "timeDay": 967,
+    "timeWeek": 748,
     "timeMonth": 659,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -369,7 +369,7 @@
       "2026-07-02": 70,
       "2026-07-03": 48,
       "2026-07-04": 91,
-      "2026-07-22": 66
+      "2026-07-22": 108
     }
   }
 ]
