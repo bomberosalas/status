@@ -4,17 +4,17 @@
     "url": "https://www.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.csalas.cl.ico",
     "slug": "personal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "82.34%",
-    "uptimeWeek": "88.55%",
-    "uptimeMonth": "79.16%",
-    "uptimeYear": "96.39%",
+    "uptimeDay": "77.72%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "79.00%",
+    "uptimeYear": "96.38%",
     "time": 1029,
-    "timeDay": 679,
-    "timeWeek": 728,
-    "timeMonth": 801,
-    "timeYear": 1030,
+    "timeDay": 738,
+    "timeWeek": 740,
+    "timeMonth": 804,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2026-06-09": 810,
       "2026-06-10": 453,
@@ -57,7 +57,7 @@
       "2026-07-19": 116,
       "2026-07-20": 253,
       "2026-07-21": 49,
-      "2026-07-22": 205
+      "2026-07-22": 272
     }
   },
   {
@@ -65,16 +65,16 @@
     "url": "https://maps.csalas.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maps.csalas.cl.ico",
     "slug": "mapas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "82.39%",
-    "uptimeWeek": "88.58%",
-    "uptimeMonth": "79.34%",
-    "uptimeYear": "96.44%",
+    "uptimeDay": "77.77%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "79.18%",
+    "uptimeYear": "96.43%",
     "time": 789,
-    "timeDay": 554,
-    "timeWeek": 642,
-    "timeMonth": 684,
+    "timeDay": 594,
+    "timeWeek": 649,
+    "timeMonth": 686,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2026-06-09": 800,
@@ -118,7 +118,7 @@
       "2026-07-19": 116,
       "2026-07-20": 252,
       "2026-07-21": 49,
-      "2026-07-22": 205
+      "2026-07-22": 272
     }
   },
   {
