@@ -127,11 +127,11 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "97.97%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.13%",
     "time": 750,
     "timeDay": 715,
@@ -206,7 +206,7 @@
       "2026-08-01": 103,
       "2026-08-06": 2,
       "2026-08-05": 13,
-      "2026-08-07": 48
+      "2026-08-07": 58
     }
   },
   {
@@ -214,11 +214,11 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.10%",
     "time": 690,
     "timeDay": 644,
@@ -226,7 +226,7 @@
     "timeMonth": 620,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-11-03": 45,
+      "2025-11-03": 24,
       "2025-11-06": 26,
       "2025-11-19": 19,
       "2025-11-30": 59,
@@ -297,7 +297,7 @@
       "2026-07-30": 132,
       "2026-07-31": 128,
       "2026-08-01": 93,
-      "2026-08-07": 43
+      "2026-08-07": 48
     }
   },
   {
@@ -305,19 +305,18 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.35%",
+    "uptimeDay": "97.32%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "99.12%",
-    "time": 733,
+    "uptimeYear": "99.13%",
+    "time": 702,
     "timeDay": 835,
     "timeWeek": 703,
     "timeMonth": 677,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-09-25": 25,
       "2025-09-27": 16,
       "2025-10-26": 16,
       "2025-11-03": 44,
