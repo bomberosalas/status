@@ -127,11 +127,11 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "97.36%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "99.08%",
     "time": 751,
     "timeDay": 716,
@@ -208,7 +208,7 @@
       "2026-08-05": 13,
       "2026-08-07": 158,
       "2026-08-08": 98,
-      "2026-08-09": 59
+      "2026-08-09": 69
     }
   },
   {
@@ -216,11 +216,11 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.08%",
     "time": 690,
     "timeDay": 729,
@@ -228,7 +228,6 @@
     "timeMonth": 633,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-12-02": 19,
       "2025-12-10": 78,
       "2025-12-13": 15,
       "2025-12-19": 42,
@@ -297,7 +296,7 @@
       "2026-08-01": 93,
       "2026-08-07": 143,
       "2026-08-08": 89,
-      "2026-08-09": 54
+      "2026-08-09": 59
     }
   },
   {
@@ -305,11 +304,11 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "99.10%",
     "time": 702,
     "timeDay": 695,
@@ -317,7 +316,6 @@
     "timeMonth": 683,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-11-03": 23,
       "2025-11-06": 26,
       "2025-11-19": 19,
       "2025-11-30": 59,
