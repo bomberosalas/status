@@ -127,16 +127,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "92.85%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "99.05%",
     "time": 751,
-    "timeDay": 614,
-    "timeWeek": 696,
-    "timeMonth": 780,
+    "timeDay": 631,
+    "timeWeek": 695,
+    "timeMonth": 778,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2025-11-03": 24,
@@ -209,7 +209,7 @@
       "2026-08-07": 158,
       "2026-08-08": 98,
       "2026-08-09": 93,
-      "2026-08-10": 10
+      "2026-08-10": 113
     }
   },
   {
@@ -217,17 +217,17 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "99.09%",
-    "time": 689,
-    "timeDay": 613,
-    "timeWeek": 676,
-    "timeMonth": 629,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "86.72%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.07%",
+    "time": 690,
+    "timeDay": 652,
+    "timeWeek": 682,
+    "timeMonth": 631,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-12-13": 15,
       "2025-12-19": 42,
@@ -297,7 +297,7 @@
       "2026-08-07": 143,
       "2026-08-08": 89,
       "2026-08-09": 83,
-      "2026-08-10": 5
+      "2026-08-10": 108
     }
   },
   {
@@ -305,16 +305,16 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "99.10%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "99.08%",
     "time": 702,
-    "timeDay": 626,
-    "timeWeek": 700,
-    "timeMonth": 679,
+    "timeDay": 619,
+    "timeWeek": 693,
+    "timeMonth": 677,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-11-19": 19,
@@ -385,7 +385,7 @@
       "2026-08-07": 129,
       "2026-08-08": 66,
       "2026-08-09": 74,
-      "2026-08-10": 0
+      "2026-08-10": 103
     }
   }
 ]
