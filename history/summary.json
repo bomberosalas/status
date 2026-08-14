@@ -127,16 +127,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "80.15%",
-    "uptimeWeek": "88.87%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "98.98%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "75.46%",
+    "uptimeWeek": "88.20%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "98.97%",
     "time": 752,
-    "timeDay": 650,
-    "timeWeek": 660,
-    "timeMonth": 753,
+    "timeDay": 628,
+    "timeWeek": 653,
+    "timeMonth": 749,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-12-15": 46,
@@ -206,7 +206,7 @@
       "2026-08-11": 87,
       "2026-08-12": 95,
       "2026-08-13": 367,
-      "2026-08-14": 113
+      "2026-08-14": 181
     }
   },
   {
@@ -214,16 +214,16 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "82.16%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "77.47%",
+    "uptimeWeek": "89.11%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "98.99%",
     "time": 690,
-    "timeDay": 625,
-    "timeWeek": 666,
-    "timeMonth": 637,
+    "timeDay": 641,
+    "timeWeek": 669,
+    "timeMonth": 639,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-01-16": 25,
@@ -288,7 +288,7 @@
       "2026-08-11": 77,
       "2026-08-12": 81,
       "2026-08-13": 346,
-      "2026-08-14": 103
+      "2026-08-14": 171
     }
   },
   {
@@ -296,14 +296,14 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "84.17%",
-    "uptimeWeek": "90.82%",
-    "uptimeMonth": "96.24%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "99.03%",
     "time": 701,
-    "timeDay": 582,
+    "timeDay": 592,
     "timeWeek": 651,
     "timeMonth": 663,
     "timeYear": 684,
@@ -370,7 +370,7 @@
       "2026-08-11": 67,
       "2026-08-12": 71,
       "2026-08-13": 322,
-      "2026-08-14": 93
+      "2026-08-14": 161
     }
   }
 ]
