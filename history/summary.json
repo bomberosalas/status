@@ -127,16 +127,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "82.56%",
-    "uptimeWeek": "89.02%",
+    "uptimeDay": "82.53%",
+    "uptimeWeek": "89.01%",
     "uptimeMonth": "94.96%",
     "uptimeYear": "98.97%",
     "time": 724,
-    "timeDay": 612,
-    "timeWeek": 642,
-    "timeMonth": 739,
+    "timeDay": 621,
+    "timeWeek": 643,
+    "timeMonth": 738,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2026-01-08": 21,
@@ -210,15 +210,15 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "84.90%",
+    "uptimeDay": "84.88%",
     "uptimeWeek": "89.97%",
     "uptimeMonth": "95.39%",
     "uptimeYear": "99.00%",
     "time": 720,
-    "timeDay": 716,
-    "timeWeek": 679,
+    "timeDay": 704,
+    "timeWeek": 677,
     "timeMonth": 645,
     "timeYear": 687,
     "dailyMinutesDown": {
@@ -280,7 +280,7 @@
       "2026-08-12": 81,
       "2026-08-13": 346,
       "2026-08-14": 187,
-      "2026-08-15": 128
+      "2026-08-15": 129
     }
   },
   {
@@ -288,15 +288,15 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "88.92%",
+    "uptimeDay": "88.90%",
     "uptimeWeek": "91.17%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.03%",
-    "time": 702,
-    "timeDay": 631,
-    "timeWeek": 623,
+    "time": 729,
+    "timeDay": 640,
+    "timeWeek": 626,
     "timeMonth": 658,
     "timeYear": 683,
     "dailyMinutesDown": {
@@ -359,7 +359,7 @@
       "2026-08-12": 71,
       "2026-08-13": 322,
       "2026-08-14": 161,
-      "2026-08-15": 90
+      "2026-08-15": 91
     }
   }
 ]
