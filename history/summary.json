@@ -127,11 +127,11 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "87.33%",
-    "uptimeWeek": "88.93%",
-    "uptimeMonth": "94.94%",
+    "uptimeDay": "86.63%",
+    "uptimeWeek": "88.83%",
+    "uptimeMonth": "94.92%",
     "uptimeYear": "98.97%",
     "time": 724,
     "timeDay": 639,
@@ -139,7 +139,6 @@
     "timeMonth": 735,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2026-01-08": 21,
       "2026-01-11": 21,
       "2026-01-14": 19,
       "2026-01-16": 26,
@@ -202,7 +201,7 @@
       "2026-08-12": 95,
       "2026-08-13": 367,
       "2026-08-14": 202,
-      "2026-08-15": 162
+      "2026-08-15": 172
     }
   },
   {
@@ -210,11 +209,11 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "89.34%",
-    "uptimeWeek": "89.89%",
-    "uptimeMonth": "95.37%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "99.00%",
     "time": 721,
     "timeDay": 673,
@@ -280,7 +279,7 @@
       "2026-08-12": 81,
       "2026-08-13": 346,
       "2026-08-14": 187,
-      "2026-08-15": 137
+      "2026-08-15": 128
     }
   },
   {
@@ -288,11 +287,11 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "95.86%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "91.17%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.03%",
     "time": 729,
     "timeDay": 621,
@@ -359,7 +358,7 @@
       "2026-08-12": 71,
       "2026-08-13": 322,
       "2026-08-14": 161,
-      "2026-08-15": 99
+      "2026-08-15": 90
     }
   }
 ]
