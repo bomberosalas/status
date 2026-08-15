@@ -127,11 +127,11 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "83.25%",
-    "uptimeWeek": "89.11%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "82.56%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "98.97%",
     "time": 724,
     "timeDay": 612,
@@ -139,7 +139,6 @@
     "timeMonth": 739,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-12-23": 35,
       "2026-01-08": 21,
       "2026-01-11": 21,
       "2026-01-14": 19,
@@ -203,7 +202,7 @@
       "2026-08-12": 95,
       "2026-08-13": 367,
       "2026-08-14": 202,
-      "2026-08-15": 143
+      "2026-08-15": 153
     }
   },
   {
@@ -211,11 +210,11 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "85.26%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "95.41%",
+    "uptimeDay": "84.90%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "99.00%",
     "time": 720,
     "timeDay": 716,
@@ -223,7 +222,6 @@
     "timeMonth": 645,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-02-05": 25,
       "2026-02-08": 28,
       "2026-02-09": 142,
       "2026-02-13": 35,
@@ -282,7 +280,7 @@
       "2026-08-12": 81,
       "2026-08-13": 346,
       "2026-08-14": 187,
-      "2026-08-15": 123
+      "2026-08-15": 128
     }
   },
   {
@@ -290,10 +288,10 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "91.18%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "91.17%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.03%",
     "time": 702,
@@ -302,7 +300,6 @@
     "timeMonth": 658,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2026-01-27": 32,
       "2026-02-03": 30,
       "2026-02-05": 77,
       "2026-02-08": 28,
