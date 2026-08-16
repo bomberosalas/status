@@ -127,16 +127,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "95.84%",
+    "uptimeDay": "95.81%",
     "uptimeWeek": "88.92%",
     "uptimeMonth": "94.81%",
     "uptimeYear": "98.97%",
     "time": 725,
-    "timeDay": 645,
-    "timeWeek": 639,
-    "timeMonth": 730,
+    "timeDay": 632,
+    "timeWeek": 636,
+    "timeMonth": 727,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2026-01-16": 26,
@@ -208,16 +208,16 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.85%",
+    "uptimeDay": "96.82%",
     "uptimeWeek": "90.11%",
     "uptimeMonth": "95.30%",
     "uptimeYear": "99.02%",
-    "time": 716,
-    "timeDay": 616,
-    "timeWeek": 654,
-    "timeMonth": 643,
+    "time": 715,
+    "timeDay": 605,
+    "timeWeek": 650,
+    "timeMonth": 641,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2026-02-13": 35,
@@ -277,7 +277,7 @@
       "2026-08-13": 346,
       "2026-08-14": 187,
       "2026-08-15": 123,
-      "2026-08-16": 46
+      "2026-08-16": 47
     }
   },
   {
@@ -285,17 +285,17 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "91.51%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "91.50%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "99.03%",
-    "time": 729,
-    "timeDay": 579,
-    "timeWeek": 607,
-    "timeMonth": 648,
-    "timeYear": 682,
+    "time": 728,
+    "timeDay": 567,
+    "timeWeek": 603,
+    "timeMonth": 646,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2026-02-05": 77,
       "2026-02-08": 28,
@@ -356,7 +356,7 @@
       "2026-08-13": 322,
       "2026-08-14": 161,
       "2026-08-15": 90,
-      "2026-08-16": 16
+      "2026-08-16": 17
     }
   }
 ]
