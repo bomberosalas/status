@@ -126,14 +126,14 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "84.72%",
-    "uptimeWeek": "92.13%",
+    "uptimeDay": "85.71%",
+    "uptimeWeek": "92.16%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "99.01%",
     "time": 716,
-    "timeDay": 598,
+    "timeDay": 605,
     "timeWeek": 594,
     "timeMonth": 686,
     "timeYear": 723,
@@ -188,7 +188,7 @@
       "2026-08-20": 106,
       "2026-08-21": 191,
       "2026-08-22": 148,
-      "2026-08-23": 72
+      "2026-08-23": 69
     }
   },
   {
@@ -196,14 +196,14 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.78%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "94.18%",
+    "uptimeDay": "88.43%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "94.19%",
     "uptimeYear": "99.04%",
     "time": 682,
-    "timeDay": 584,
+    "timeDay": 590,
     "timeWeek": 568,
     "timeMonth": 616,
     "timeYear": 677,
@@ -258,7 +258,7 @@
       "2026-08-20": 87,
       "2026-08-21": 156,
       "2026-08-22": 113,
-      "2026-08-23": 63
+      "2026-08-23": 59
     }
   },
   {
@@ -266,14 +266,14 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "95.08%",
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "99.06%",
     "time": 692,
-    "timeDay": 575,
+    "timeDay": 576,
     "timeWeek": 580,
     "timeMonth": 613,
     "timeYear": 675,
@@ -333,7 +333,7 @@
       "2026-08-20": 43,
       "2026-08-21": 122,
       "2026-08-22": 69,
-      "2026-08-23": 54
+      "2026-08-23": 51
     }
   }
 ]
