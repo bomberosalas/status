@@ -128,8 +128,8 @@
     "slug": "segunda-cia-bomberos",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "91.87%",
-    "uptimeWeek": "91.80%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "91.79%",
     "uptimeMonth": "92.89%",
     "uptimeYear": "99.02%",
     "time": 717,
@@ -184,7 +184,7 @@
       "2026-08-22": 148,
       "2026-08-23": 138,
       "2026-08-24": 107,
-      "2026-08-25": 10
+      "2026-08-25": 11
     }
   },
   {
@@ -194,7 +194,7 @@
     "slug": "bomberos-coyhaique",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "94.12%",
+    "uptimeDay": "94.09%",
     "uptimeWeek": "93.80%",
     "uptimeMonth": "93.86%",
     "uptimeYear": "99.06%",
@@ -253,7 +253,7 @@
       "2026-08-22": 113,
       "2026-08-23": 118,
       "2026-08-24": 79,
-      "2026-08-25": 5
+      "2026-08-25": 6
     }
   },
   {
@@ -263,7 +263,7 @@
     "slug": "grifos",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "95.13%",
+    "uptimeDay": "95.09%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "94.84%",
     "uptimeYear": "99.06%",
