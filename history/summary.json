@@ -192,19 +192,19 @@
     "url": "https://bomberoscoyhaique.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bomberoscoyhaique.cl.ico",
     "slug": "bomberos-coyhaique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "74.43%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "74.06%",
+    "uptimeWeek": "94.46%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.96%",
     "time": 681,
     "timeDay": 508,
     "timeWeek": 611,
     "timeMonth": 653,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2026-04-07": 99,
+      "2026-04-07": 39,
       "2026-04-08": 87,
       "2026-04-09": 271,
       "2026-04-10": 100,
@@ -250,7 +250,8 @@
       "2026-08-26": 209,
       "2026-09-01": 146,
       "2026-10-14": 185,
-      "2026-10-18": 368
+      "2026-10-18": 368,
+      "2026-10-19": 5
     }
   },
   {
@@ -258,19 +259,18 @@
     "url": "https://grifos.cl",
     "icon": "https://icons.duckduckgo.com/ip3/grifos.cl.ico",
     "slug": "grifos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "74.78%",
-    "uptimeWeek": "92.80%",
+    "uptimeDay": "74.74%",
+    "uptimeWeek": "93.72%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 688,
     "timeDay": 586,
     "timeWeek": 782,
     "timeMonth": 679,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-03-16": 32,
       "2026-03-19": 142,
       "2026-03-21": 38,
       "2026-03-27": 42,
@@ -326,7 +326,8 @@
       "2026-10-12": 131,
       "2026-10-11": 51,
       "2026-10-14": 180,
-      "2026-10-18": 363
+      "2026-10-18": 363,
+      "2026-10-19": 1
     }
   }
 ]
