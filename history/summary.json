@@ -126,16 +126,16 @@
     "url": "https://2da.cl",
     "icon": "https://icons.duckduckgo.com/ip3/2da.cl.ico",
     "slug": "segunda-cia-bomberos",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "98.81%",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "78.80%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "98.78%",
     "time": 755,
-    "timeDay": 0,
-    "timeWeek": 705,
-    "timeMonth": 1394,
+    "timeDay": 731,
+    "timeWeek": 709,
+    "timeMonth": 1375,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2026-04-11": 89,
@@ -188,7 +188,7 @@
       "2026-10-25": 188,
       "2026-10-27": 39,
       "2026-10-26": 147,
-      "2026-11-08": 143
+      "2026-11-08": 305
     }
   },
   {
